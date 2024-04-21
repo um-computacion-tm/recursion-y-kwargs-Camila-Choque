@@ -6,7 +6,6 @@ def escribir_el_nombre(*args, **kwargs):
     for key, value in kwargs.items():
         print(key, value)
 
-
 escribir_el_nombre("Ludmila", primer_nombre="Luciano",
                    segundo_nombre="Cristian",
                    primer_apellido="Toneatti",

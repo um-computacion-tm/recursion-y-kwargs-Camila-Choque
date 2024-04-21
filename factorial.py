@@ -34,8 +34,6 @@ class TestFactorial(unittest.TestCase):
         self.assertEqual(resultado,720)
 
 
-
-
     
 
 

@@ -13,8 +13,6 @@ print (resultado)
 
 
 
-
-
 class TestFibonacci(unittest.TestCase):
    
     def test_1(self):
